@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="fr">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Philiance</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+    <meta name="description" content="Philiance">
+    <meta name="msapplication-tap-highlight" content="no">
+	<script src="https://www.adminback.com/philiance/plateforme/assets/js/jquery-3.6.0.min.js"></script>
+	<link href="https://www.adminback.com/philiance/plateforme/assets/main.css" rel="stylesheet"></head>
+	<script type="text/javascript" src="https://www.adminback.com/philiance/plateforme/assets/js/bootstrap.min.js"></script>
+	<link rel="shortcut icon" href="https://www.adminback.com/philiance/plateforme/assets/img/favicon.ico">
+<body id="login">
+ 
+    <div class="container">
+		<div class="starter-template">
+			<p style="font-size:35px; margin-top: 80px; color: #fff;">Philiance</p>
+			<div class="loginmodal-container1" id="login-modal" tabindex="1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="loginmodal-container">
+							<h2 style="font-size:18px;">S'identifier</h2><br>
+							<div class="col-md-12 container-avatar"></div>
+						<form method="post" action="">
+							<div class="input-group form-group">
+								<input id="email" placeholder="Votre Email" class="form-control" name="email" value="" required="true" type="email" title="Saisissez votre adresse email ou pseudo">
+								  <span class="input-group-text lookPassword"><label for="email"><i class="fas fa-user" title="Saisissez votre adresse email ou pseudo"></i></label></span>
+								
+							</div>
+
+							<div class="input-group form-group">
+								<input id="password_show" placeholder="************" class="form-control mdp" name="password" required="true" type="password" title="Saisissez votre mot de passe" value="">
+								  <span class="input-group-text lookPassword" id="password_show_button"><i class="fas fa-unlock-alt glyphicon-lock" title="Visualiser mon mot de passe"></i></span>
+							</div>
+						
+							<input type="submit" name="login" class="login loginmodal-submit2 submit" value="Connexion" title="Se connecter">
+							
+							<div class="row" style="margin-top: 25px;">
+								<div class="col-md-12">En cliquant sur Connexion, vous acceptez nos <a href="cgu.html">conditions d'utilisation</a>, et également l’utilisation de Cookies ou autres traceurs pour réaliser des statistiques de visites.</div>
+								<div class="col-md-12"><a href="#" class="police lien" data-toggle="modal" data-target="#myModal2">Je n'arrive pas à me connecter à mon compte</a></div>
+							</div>
+					  </form><br><br>
+					  				</div>
+			</div>
+		</div>
+	</div>
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Demander un nouveau mot de passe</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+						<form method="post" action="">
+							<div class="input-group form-group">
+								<input id="email3" placeholder="Votre Email" class="form-control" name="email" value="" required="true" type="email" title="Saisissez votre adresse email ou pseudo">
+								<div class="input-group-prepend">
+								  <span class="input-group-text" id="validationTooltipUsernamePrepend"><i class="fas fa-user"></i></span>
+								</div>
+							</div>
+      </div>
+      <div class="modal-footer">				
+				<button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
+				<input type="submit" name="renewpassword" class="login loginmodal-submit submit btn btn-primary OpenSans" value="Recevoir un nouveau mot de passe" title="Valider cette demande de réinitialisation de mot de passe">
+		</form>
+      </div>
+    </div>
+  </div>
+</div>
+			<script type="text/javascript" src="https://www.adminback.com/philiance/plateforme/assets/scripts/main.js"></script>
+
+  </body>
+</html>

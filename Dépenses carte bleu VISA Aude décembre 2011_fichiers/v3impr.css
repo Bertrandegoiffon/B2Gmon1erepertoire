@@ -1,0 +1,171 @@
+BODY {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+P {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+A {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+SPAN {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+DIV {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+TD {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+TR {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+TH {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+CAPTION {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+.i {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+.p {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+.rupture {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+.INFO {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+.tot {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+.tittot {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+TABLE.LISTE TR.sel TD {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+TABLE.LISTE TR.over TD {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+TD.INFO {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+TH.INFO {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+DIV.a_blocfctltitre P.a_titre2 {
+	BACKGROUND-IMAGE: none !important; BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+DIV.blocpaginb EM.pgcou {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #000; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; PADDING-TOP: 0px
+}
+DIV.blocpaginh EM.pgcou {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #000; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; PADDING-TOP: 0px
+}
+CAPTION {
+	FONT-WEIGHT: bold
+}
+P.a_titre2 {
+	FONT-WEIGHT: bold
+}
+TABLE.FICHE {
+	BACKGROUND-COLOR: #fff !important; BORDER-COLLAPSE: collapse
+}
+TABLE.LISTE {
+	BACKGROUND-COLOR: #fff !important; BORDER-COLLAPSE: collapse
+}
+TABLE.tab2dim {
+	BACKGROUND-COLOR: #fff !important; BORDER-COLLAPSE: collapse
+}
+CAPTION {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+TABLE.FICHE TD {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+TABLE.LISTE TD {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+TABLE.tab2dim TD {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+TABLE.FICHE TH {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+TABLE.LISTE TH {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+TABLE.tab2dim TH {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+DIV.a_blocfctltitre {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.a_blocfctl {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+HR {
+	BACKGROUND-COLOR: #000; COLOR: #000
+}
+DIV.blocnotes {
+	BORDER-BOTTOM-COLOR: #000; BORDER-TOP-COLOR: #000; BORDER-RIGHT-COLOR: #000; BORDER-LEFT-COLOR: #000
+}
+.rupture SPAN {
+	BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+.rupture A {
+	BACKGROUND-COLOR: #fff !important; COLOR: #000 !important
+}
+HR {
+	BORDER-BOTTOM: #000 1px solid
+}
+DIV.a_blocentimp {
+	WIDTH: 100%; OVERFLOW: auto
+}
+DIV.a_blocentimp IMG {
+	FLOAT: left
+}
+DIV.a_blocappli P.a_titre1 {
+	BACKGROUND-IMAGE: none; TEXT-TRANSFORM: none; PADDING-LEFT: 0px; FONT-SIZE: 1.4em
+}
+DIV.a_blocentimptitre {
+	BORDER-BOTTOM: #000 2px solid; BORDER-LEFT: #000 2px solid; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: right; BORDER-TOP: #000 2px solid; BORDER-RIGHT: #000 2px solid; PADDING-TOP: 0px
+}
+INPUT {
+	DISPLAY: none
+}
+SELECT {
+	DISPLAY: none
+}
+TEXTAREA {
+	DISPLAY: none
+}
+.a_menuappli {
+	DISPLAY: none
+}
+.a_options {
+	DISPLAY: none
+}
+.a_actions {
+	DISPLAY: none
+}
+.blocboutons {
+	DISPLAY: none
+}
+.noimpr {
+	DISPLAY: none
+}
+.blocpaginh IMG {
+	DISPLAY: none
+}
+.blocpaginb IMG {
+	DISPLAY: none
+}
+A {
+	TEXT-DECORATION: none !important
+}
+A:hover {
+	TEXT-DECORATION: none !important
+}

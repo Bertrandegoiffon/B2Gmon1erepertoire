@@ -1,0 +1,1 @@
+if(window.canddi && window.canddi.receive) {window.canddi.receive("41291245");}

@@ -1,0 +1,29 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "image"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "site"; 
+google_ad.url = "http://googleads.g.doubleclick.net/aclk?sa=l&amp;ai=C4IXWp-3nUajxIcih8AON6YH4Dbmkk6wD4cTCmVKZk4u8ARABIN3d1QhQ1bySl_v_____AWD7-fyCiAqgAd_kqNoDyAECqQLq2wGTZve1PqgDAaoE1AFP0EFoSFvm8nURFoN0wb-8cGFrt7si6jCGVQEjuS3_ECDmk3RVCkRn2Nt_v32ETJV05k-WPAcRO8Hjkt98suShqGYnsBkojRI9sELtmBgcO0e2qEzwYjg8qv27dY293LaB-C_GM8cvtxJ-QIIBb-PfUb-_Iftkz5q5LnK8Du3iHdBoRl30oZTGFB__MpzNIgy2jzJr72EQ_QpOnrRyfXk1hjB8hgEgFH6n9iON7o1cMb3HUNvAq0tyP2Pmd_AubLV09_nY7X-liyHN6vCxawWzSmpmNKAGAoAHiZvXJQ&amp;num=1&amp;sig=AOD64_1QxyNFPGXXybnBBioO9sWmSLU7Rw&amp;client=ca-pub-3902876258354218&amp;adurl=http://www.cle-usb-32giga.com/sandisk_32giga"; 
+google_ad.visible_url = "cle-usb-32giga.com/sandisk_32giga"; 
+google_ad.image_url = "https://tpc.googlesyndication.com/simgad/16542519479685522516";
+google_ad.image_width = "160";
+google_ad.image_height = "600";
+google_ad.image_alt_text = "";
+google_ads[0] = google_ad; 
+google_info.feedback_url = "http://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttps://clients.cdiscount.com/Order/OrdersTracking.aspx%253FSaleFolderId%253D141392421%2526OrderId%253D0000000000000000000053ZZLU%2526ScopusId%253D1307181246SFTFX%26gl%3DFR%26hl%3Dfr%26client%3Dca-pub-3902876258354218%26ai0%3DC4IXWp-3nUajxIcih8AON6YH4Dbmkk6wD4cTCmVKZk4u8ARABIN3d1QhQ1bySl_v_____AWD7-fyCiAqgAd_kqNoDyAECqQLq2wGTZve1PqgDAaoE1AFP0EFoSFvm8nURFoN0wb-8cGFrt7si6jCGVQEjuS3_ECDmk3RVCkRn2Nt_v32ETJV05k-WPAcRO8Hjkt98suShqGYnsBkojRI9sELtmBgcO0e2qEzwYjg8qv27dY293LaB-C_GM8cvtxJ-QIIBb-PfUb-_Iftkz5q5LnK8Du3iHdBoRl30oZTGFB__MpzNIgy2jzJr72EQ_QpOnrRyfXk1hjB8hgEgFH6n9iON7o1cMb3HUNvAq0tyP2Pmd_AubLV09_nY7X-liyHN6vCxawWzSmpmNKAGAoAHiZvXJQ\x26usg\x3dAFQjCNGqAiSykb23HmyZkQZ5yf-pehrFog";
+var google_attribution_text = "Choisir sa pub";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

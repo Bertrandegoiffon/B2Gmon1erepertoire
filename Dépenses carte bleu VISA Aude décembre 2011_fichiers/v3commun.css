@@ -1,0 +1,1458 @@
+ACRONYM {
+	CURSOR: help
+}
+ABBR {
+	CURSOR: help
+}
+A ABBR {
+	BORDER-BOTTOM: medium none
+}
+A ACRONYM {
+	BORDER-BOTTOM: medium none
+}
+A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+BODY {
+	MARGIN: 0px
+}
+FORM {
+	MARGIN: 0px
+}
+H1 {
+	MARGIN: 0px
+}
+H2 {
+	MARGIN: 0px
+}
+H3 {
+	MARGIN: 0px
+}
+H4 {
+	MARGIN: 0px
+}
+H5 {
+	MARGIN: 0px
+}
+H6 {
+	MARGIN: 0px
+}
+BODY {
+	BEHAVIOR: url(/fr/css/csshover.htc)
+}
+HTML {
+	HEIGHT: 100%
+}
+BODY {
+	HEIGHT: 100%
+}
+EM {
+	FONT-STYLE: normal; FONT-WEIGHT: bold
+}
+STRONG {
+	FONT-STYLE: normal; FONT-WEIGHT: bold
+}
+SMALL {
+	FONT-SIZE: smaller
+}
+BIG {
+	FONT-SIZE: larger
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+INPUT {
+	FONT-FAMILY: arial,Helvetica,sans-serif; COLOR: #000
+}
+SELECT {
+	FONT-FAMILY: arial,Helvetica,sans-serif; COLOR: #000
+}
+P INPUT {
+	VERTICAL-ALIGN: middle
+}
+P SELECT {
+	VERTICAL-ALIGN: middle
+}
+LI INPUT {
+	VERTICAL-ALIGN: middle
+}
+LI SELECT {
+	VERTICAL-ALIGN: middle
+}
+TABLE.saisir INPUT {
+	VERTICAL-ALIGN: middle
+}
+TABLE.saisir SELECT {
+	VERTICAL-ALIGN: middle
+}
+SPAN {
+	FONT-SIZE: 100%
+}
+A {
+	FONT-SIZE: 100%
+}
+TH {
+	TEXT-ALIGN: center; FONT-WEIGHT: bold
+}
+BODY.a_pageaide {
+	MARGIN: 10px
+}
+BODY.a_pageimp {
+	MARGIN: 10px
+}
+BODY.a_pageimp DIV.a_blocappli {
+	WIDTH: 580px
+}
+BODY.fontsize1 {
+	FONT-SIZE: 90%
+}
+BODY.fontsize2 {
+	FONT-SIZE: 110%
+}
+TABLE.saisir TH {
+	VERTICAL-ALIGN: middle !important
+}
+TABLE.saisir TD {
+	VERTICAL-ALIGN: middle !important
+}
+.fd {
+	FLOAT: right !important
+}
+.fg {
+	FLOAT: left !important
+}
+IMG.fd {
+	MARGIN-BOTTOM: 4px; MARGIN-LEFT: 15px
+}
+IMG.fg {
+	MARGIN-BOTTOM: 4px; MARGIN-RIGHT: 15px
+}
+.nof {
+	CLEAR: both
+}
+.g {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.d {
+	TEXT-ALIGN: right
+}
+.mtt {
+	TEXT-ALIGN: right
+}
+.tx {
+	TEXT-ALIGN: right
+}
+.adroite {
+	MARGIN-LEFT: auto !important
+}
+.agauche {
+	MARGIN-RIGHT: auto !important
+}
+.aucentre {
+	MARGIN-LEFT: auto !important; MARGIN-RIGHT: auto !important
+}
+.mtt {
+	WHITE-SPACE: nowrap
+}
+.tx {
+	WHITE-SPACE: nowrap
+}
+.h {
+	VERTICAL-ALIGN: top !important
+}
+TD.h {
+	VERTICAL-ALIGN: top !important
+}
+.b {
+	VERTICAL-ALIGN: bottom !important
+}
+TD.b {
+	VERTICAL-ALIGN: bottom !important
+}
+.vc {
+	VERTICAL-ALIGN: middle !important
+}
+TD.vc {
+	VERTICAL-ALIGN: middle !important
+}
+.nodecal {
+	PADDING-LEFT: 0px !important
+}
+.decal2 {
+	PADDING-LEFT: 15% !important
+}
+.nomargeh {
+	MARGIN-TOP: 0px !important
+}
+P.sstitre3 {
+	MARGIN-TOP: 0px !important
+}
+P.illustre {
+	MARGIN-TOP: 0px !important
+}
+.nomargeb {
+	MARGIN-BOTTOM: 0px !important
+}
+.nowrap {
+	WHITE-SPACE: nowrap
+}
+UL.nowrap LI {
+	WHITE-SPACE: nowrap
+}
+.cpc {
+	WIDTH: 100%
+}
+TABLE.gouttieres {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: auto; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+TABLE.gouttieres TD.sep {
+	PADDING-LEFT: 28px; VERTICAL-ALIGN: top
+}
+TD.col {
+	PADDING-LEFT: 28px; VERTICAL-ALIGN: top
+}
+TD.col1tiers {
+	PADDING-LEFT: 28px; VERTICAL-ALIGN: top
+}
+TD.col1demi {
+	PADDING-LEFT: 28px; VERTICAL-ALIGN: top
+}
+TD.col1quart {
+	PADDING-LEFT: 28px; VERTICAL-ALIGN: top
+}
+TD.premcol {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 0px; VERTICAL-ALIGN: top
+}
+TD.premcol1tiers {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 0px; VERTICAL-ALIGN: top
+}
+TD.premcol1demi {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 0px; VERTICAL-ALIGN: top
+}
+TD.premcol1quart {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 0px; VERTICAL-ALIGN: top
+}
+TD.col1tiers {
+	WIDTH: 34.6%
+}
+TD.premcol1tiers {
+	WIDTH: 30.8%
+}
+TD.col1demi {
+	PADDING-LEFT: 56px; WIDTH: 54%
+}
+TD.premcol1demi {
+	WIDTH: 46%
+}
+TD.col1quart {
+	WIDTH: 26%
+}
+TD.premcol1quart {
+	WIDTH: 22%
+}
+.noborder {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.pointer {
+	CURSOR: pointer
+}
+EM.attn {
+	FONT-STYLE: normal; PADDING-LEFT: 14px; BACKGROUND: url(../images/css/v3commun/icoexcla.gif) no-repeat left top
+}
+SPAN.attn {
+	FONT-STYLE: normal; PADDING-LEFT: 14px; BACKGROUND: url(../images/css/v3commun/icoexcla.gif) no-repeat left top
+}
+TD.d EM.attn {
+	PADDING-LEFT: 0px; PADDING-RIGHT: 14px; WHITE-SPACE: nowrap; BACKGROUND-POSITION: right top
+}
+TD.d SPAN.attn {
+	PADDING-LEFT: 0px; PADDING-RIGHT: 14px; WHITE-SPACE: nowrap; BACKGROUND-POSITION: right top
+}
+.fb {
+	TEXT-ALIGN: right; PADDING-RIGHT: 14px !important
+}
+.fh {
+	TEXT-ALIGN: right; PADDING-RIGHT: 14px !important
+}
+.fs {
+	TEXT-ALIGN: right; PADDING-RIGHT: 14px !important
+}
+.fhr {
+	TEXT-ALIGN: right; PADDING-RIGHT: 14px !important
+}
+.fbv {
+	TEXT-ALIGN: right; PADDING-RIGHT: 14px !important
+}
+SPAN.fb {
+	DISPLAY: inline-block
+}
+SPAN.fh {
+	DISPLAY: inline-block
+}
+SPAN.fs {
+	DISPLAY: inline-block
+}
+SPAN.fhr {
+	DISPLAY: inline-block
+}
+SPAN.fbv {
+	DISPLAY: inline-block
+}
+EM.fb {
+	DISPLAY: inline-block
+}
+EM.fh {
+	DISPLAY: inline-block
+}
+EM.fs {
+	DISPLAY: inline-block
+}
+EM.fhr {
+	DISPLAY: inline-block
+}
+EM.fbv {
+	DISPLAY: inline-block
+}
+.fb {
+	BACKGROUND: url(../images/css/v3commun/fleche_baisse.gif) no-repeat right top
+}
+.fh {
+	BACKGROUND: url(../images/css/v3commun/fleche_hausse.gif) no-repeat right top
+}
+.fs {
+	BACKGROUND: url(../images/css/v3commun/fleche_stable.gif) no-repeat right top
+}
+.fbv {
+	BACKGROUND: url(../images/css/v3commun/fleche_baisse_verte.gif) no-repeat right top
+}
+.fhr {
+	BACKGROUND: url(../images/css/v3commun/fleche_hausse_rouge.gif) no-repeat right top
+}
+.exple {
+	FONT-STYLE: italic
+}
+.ALERTE {
+	COLOR: #f00; FONT-WEIGHT: bold
+}
+.ALERTE A {
+	COLOR: #f00; FONT-WEIGHT: bold
+}
+.ALERTE SPAN {
+	COLOR: #f00; FONT-WEIGHT: bold
+}
+.renvoi {
+	VERTICAL-ALIGN: super
+}
+.smaller {
+	FONT-SIZE: smaller
+}
+.lblsnd {
+	FONT-SIZE: smaller
+}
+.bigger {
+	FONT-SIZE: larger
+}
+DIV.blocmsg {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 27px; PADDING-RIGHT: 5px; BACKGROUND-POSITION: left top; MARGIN-BOTTOM: 10px; OVERFLOW: hidden; FONT-WEIGHT: bold; PADDING-TOP: 4px
+}
+DIV.blocmsg P {
+	MARGIN: 5px 0px
+}
+DIV.blocmsg A.masquer {
+	FONT-WEIGHT: normal
+}
+DIV.blocmsg A.afficher {
+	FONT-WEIGHT: normal
+}
+DIV.blocmsg DIV.details {
+	DISPLAY: none
+}
+DIV.bloctxt {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 1px
+}
+DIV.ALERTE {
+	PADDING-LEFT: 27px !important; BACKGROUND: url(../images/css/v3commun/icoalerte.gif) #ffc no-repeat
+}
+DIV.ALERTE P {
+	COLOR: #f00
+}
+DIV.err {
+	PADDING-LEFT: 27px !important; BACKGROUND: url(../images/css/v3commun/icoerreur.gif) #f00 no-repeat; COLOR: #fff
+}
+DIV.err P {
+	COLOR: #fff
+}
+DIV.INFO {
+	PADDING-LEFT: 27px !important; BACKGROUND: url(../images/css/v3commun/icoinfo.gif) #ffc no-repeat; COLOR: #000
+}
+DIV.donnee {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM: #505f6f 1px dotted; TEXT-ALIGN: center; BORDER-LEFT: #505f6f 1px dotted; BACKGROUND-COLOR: #f1f1ef; MARGIN-BOTTOM: 5px; BORDER-TOP: #505f6f 1px dotted; BORDER-RIGHT: #505f6f 1px dotted
+}
+DIV.donnee {
+	COLOR: #404040
+}
+DIV.donnee P EM {
+	COLOR: #404040
+}
+TD.INFO {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #ffc; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+TH.INFO {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #ffc; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+TD.INFO P {
+	MARGIN: 0px 0px 5px
+}
+TH.INFO P {
+	MARGIN: 0px 0px 5px
+}
+.fondredac {
+	BACKGROUND-COLOR: #fff
+}
+UL.menu LI.sep {
+	MARGIN-BOTTOM: 10px
+}
+DIV.blocboutons P {
+	TEXT-ALIGN: center; FONT-WEIGHT: bold
+}
+DIV.blocpatience {
+	BORDER-BOTTOM: #888 1px solid; BORDER-LEFT: #888 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; MARGIN-BOTTOM: 10px; BACKGROUND: url(../images/css/v3commun/await.gif) no-repeat center center; BORDER-TOP: #888 1px solid; BORDER-RIGHT: #888 1px solid; PADDING-TOP: 0px
+}
+DIV.blocpatience P {
+	TEXT-ALIGN: center; MARGIN: 30px 0px; WHITE-SPACE: nowrap; FONT-SIZE: 1.2em; FONT-WEIGHT: bold
+}
+DIV.blocpatience2 {
+	Z-INDEX: 1; BORDER-BOTTOM: #888 1px solid; POSITION: absolute; TEXT-ALIGN: center; BORDER-LEFT: #888 1px solid; PADDING-BOTTOM: 20px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 20px; WIDTH: 40%; PADDING-RIGHT: 20px; BORDER-TOP: #888 1px solid; TOP: 10px; BORDER-RIGHT: #888 1px solid; PADDING-TOP: 20px; LEFT: 30%
+}
+DIV.blocpatience2 P {
+	TEXT-ALIGN: center; MARGIN: 10px 0px; FONT-SIZE: 1.2em; FONT-WEIGHT: bold
+}
+DIV.blocprogression {
+	BORDER-BOTTOM: #044991 1px solid; BORDER-LEFT: #044991 1px solid; BACKGROUND-COLOR: #fff; MARGIN: auto; WIDTH: 200px; HEIGHT: 15px; BORDER-TOP: #044991 1px solid; BORDER-RIGHT: #044991 1px solid
+}
+DIV.blocprogression DIV {
+	BACKGROUND-COLOR: #044991
+}
+DIV.maquette {
+	BACKGROUND: url(../images/css/v3commun/maquette.gif) repeat-x; PADDING-TOP: 25px
+}
+TR.stabilo TD {
+	BACKGROUND-COLOR: #ff9 !important
+}
+TD.stabilo {
+	BACKGROUND-COLOR: #ff9 !important
+}
+TABLE.LISTE TR TH.stabilo {
+	BACKGROUND-COLOR: #ff9 !important
+}
+TABLE.LISTE TR TD.stabilo {
+	BACKGROUND-COLOR: #ff9 !important
+}
+TABLE.LISTE TR TH.stabilo SPAN {
+	BACKGROUND-COLOR: #ff9 !important
+}
+TABLE.LISTE TR TD.stabilo SPAN {
+	BACKGROUND-COLOR: #ff9 !important
+}
+.cot0 {
+	COLOR: #090 !important
+}
+.cot1 {
+	COLOR: #f90 !important
+}
+.cot2 {
+	COLOR: #f60 !important
+}
+.cot3 {
+	COLOR: #f00 !important
+}
+DIV.bloccom {
+	PADDING-BOTTOM: 8px; BACKGROUND-COLOR: #deedf6; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 8px
+}
+DIV.bloccom P {
+	BACKGROUND-COLOR: #deedf6; FONT-SIZE: 1.1em
+}
+DIV.bloccom A.suite {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+DIV.bloccom A.suite:hover {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+DIV.synonyme {
+	MARGIN: 8px
+}
+DIV.synonyme P {
+	COLOR: red; FONT-SIZE: 1.2em
+}
+DIV.synonyme A {
+	FONT-STYLE: italic; COLOR: #114f9c; FONT-WEIGHT: bold
+}
+DIV.rec {
+	BACKGROUND-COLOR: #fff
+}
+DIV.rec P {
+	FONT-SIZE: 1em
+}
+DIV.rec A.suite {
+	FONT-SIZE: 1.1em; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+DIV.rec A.suite:hover {
+	FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+DIV.rec P.url {
+	PADDING-BOTTOM: 8px; COLOR: #060; FONT-SIZE: 1em
+}
+DIV.rec P.url A {
+	COLOR: #060; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+INPUT.radio {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+INPUT.checkbox {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+INPUT.image {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+INPUT.inp5 {
+	WIDTH: 5em
+}
+INPUT.cp {
+	WIDTH: 5em
+}
+INPUT.bqe {
+	WIDTH: 5em
+}
+INPUT.gui {
+	WIDTH: 5em
+}
+INPUT.clerib {
+	WIDTH: 2em
+}
+INPUT.iban {
+	WIDTH: 26em
+}
+INPUT.inp15 {
+	WIDTH: 12em
+}
+INPUT.inp32 {
+	WIDTH: 24em
+}
+INPUT.inp36 {
+	WIDTH: 26em
+}
+INPUT.inp64 {
+	WIDTH: 50em
+}
+INPUT.date {
+	WIDTH: 10em
+}
+INPUT.mttp {
+	TEXT-ALIGN: right; WIDTH: 8em
+}
+INPUT.mttg {
+	TEXT-ALIGN: right; WIDTH: 12em
+}
+INPUT.tel {
+	WIDTH: 16em
+}
+INPUT.MAIL {
+	WIDTH: 30em
+}
+INPUT.numcpt {
+	WIDTH: 11em
+}
+INPUT.numrac {
+	WIDTH: 8em
+}
+INPUT.ident {
+	WIDTH: 16em
+}
+INPUT.err {
+	BORDER-BOTTOM: red 2px solid; BORDER-LEFT: red 2px solid; BORDER-TOP: red 2px solid; BORDER-RIGHT: red 2px solid
+}
+TEXTAREA.err {
+	BORDER-BOTTOM: red 2px solid; BORDER-LEFT: red 2px solid; BORDER-TOP: red 2px solid; BORDER-RIGHT: red 2px solid
+}
+SELECT.err {
+	BORDER-BOTTOM: red 2px solid; BORDER-LEFT: red 2px solid; BORDER-TOP: red 2px solid; BORDER-RIGHT: red 2px solid
+}
+OPTION.err {
+	COLOR: #f00
+}
+INPUT.disable {
+	BACKGROUND-COLOR: #ececec !important
+}
+TEXTAREA.disable {
+	BACKGROUND-COLOR: #ececec !important
+}
+DIV.bloctelft {
+	MARGIN: 0px 0px 3px; WIDTH: 160px
+}
+DIV.bloctelft P {
+	MARGIN: 0px; FONT-WEIGHT: bolder
+}
+DIV.bloctelft P.num {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; FONT-FAMILY: Verdana,Helvetica,sans-serif; LETTER-SPACING: -1px; FONT-SIZE: 11px; PADDING-TOP: 1px
+}
+DIV.bloctelft P.tarif {
+	TEXT-ALIGN: right; COLOR: #000; FONT-SIZE: 80%
+}
+DIV.indigo {
+	BACKGROUND: url(../images/css/v3commun/telindigo.gif) no-repeat left top
+}
+DIV.indigo P.num {
+	COLOR: #339
+}
+DIV.vert {
+	BACKGROUND: url(../images/css/v3commun/telvert.gif) no-repeat left top
+}
+DIV.vert P.num {
+	COLOR: #093
+}
+DIV.azur {
+	BACKGROUND: url(../images/css/v3commun/telazur.gif) no-repeat left top
+}
+DIV.azur P.num {
+	COLOR: #09f
+}
+DIV.cristal {
+	BACKGROUND: url(../images/css/v3commun/telcristal.gif) no-repeat left top
+}
+DIV.cristal P.num {
+	COLOR: #9ea3a6
+}
+DIV.a_blocongh {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/css/v3base/a_blocongh.gif) #fff repeat-x 50% top; PADDING-TOP: 10px
+}
+DIV.a_blocongh UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+DIV.a_blocongh UL LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+DIV.a_blocongh UL A {
+	FLOAT: left
+}
+DIV.a_blocongh UL SPAN {
+	FLOAT: left
+}
+DIV.a_blocsongv {
+	POSITION: relative; WIDTH: 100%
+}
+DIV.a_blocongv {
+	POSITION: absolute; WIDTH: 120px; TOP: 0px
+}
+DIV.a_blocongv UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV.a_blocongv UL LI {
+	MARGIN: 0px 1px 0px 0px
+}
+DIV.a_blocongv UL LI.sel {
+	MARGIN-RIGHT: 0px
+}
+DIV.a_blocongv UL LI.recapsel {
+	MARGIN-RIGHT: 0px
+}
+DIV.a_blocsongv DIV.a_blocongfond {
+	MARGIN-LEFT: 119px
+}
+A.act {
+	COLOR: #fff
+}
+SPAN.act {
+	COLOR: #fff
+}
+A.popaide {
+	COLOR: #fff
+}
+UL.a_menuappli LI A {
+	COLOR: #fff
+}
+A.act {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+SPAN.act {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+SPAN.act A {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 0px; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+A.act:hover SPAN {
+	BACKGROUND-COLOR: transparent; TEXT-DECORATION: underline
+}
+SPAN.act A:hover {
+	BACKGROUND-COLOR: transparent; TEXT-DECORATION: underline
+}
+A.triasc {
+	DISPLAY: block
+}
+A.trioff {
+	DISPLAY: block
+}
+A.tridesc {
+	DISPLAY: block
+}
+A.triasc SPAN.renvoi {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 3px; PADDING-RIGHT: 2px
+}
+A.trioff SPAN.renvoi {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 3px; PADDING-RIGHT: 2px
+}
+A.tridesc SPAN.renvoi {
+	BACKGROUND-IMAGE: none; PADDING-LEFT: 3px; PADDING-RIGHT: 2px
+}
+TD.a_actions A.act {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: auto; TEXT-DECORATION: underline; PADDING-TOP: 0px
+}
+TD.a_actions A.act SPAN {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: auto; TEXT-DECORATION: underline; PADDING-TOP: 0px
+}
+TH A.act {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: auto; TEXT-DECORATION: underline; PADDING-TOP: 0px
+}
+TH A.act SPAN {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: auto; TEXT-DECORATION: underline; PADDING-TOP: 0px
+}
+TD.i_actions A.act {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: auto; TEXT-DECORATION: underline; PADDING-TOP: 0px
+}
+TD.i_actions A.act SPAN {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: auto; TEXT-DECORATION: underline; PADDING-TOP: 0px
+}
+SPAN.off {
+	PADDING-LEFT: 16px !important; BACKGROUND: url(../images/css/v3commun/icocroix.gif) no-repeat left center
+}
+UL.a_actions {
+	PADDING-BOTTOM: 3px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 2px; WIDTH: 100%; PADDING-RIGHT: 2px; OVERFLOW: hidden; FONT-WEIGHT: normal; PADDING-TOP: 3px
+}
+UL.i_actions {
+	PADDING-BOTTOM: 3px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 2px; WIDTH: 100%; PADDING-RIGHT: 2px; OVERFLOW: hidden; FONT-WEIGHT: normal; PADDING-TOP: 3px
+}
+UL.a_actions LI {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 2px
+}
+UL.i_actions LI {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 2px
+}
+UL.a_actions LI.aff {
+	FLOAT: right
+}
+DIV.a_blocongfond UL.a_actions {
+	BACKGROUND-COLOR: transparent; MARGIN-BOTTOM: 8px; PADDING-TOP: 0px
+}
+DIV.a_blocongfond DIV.a_blocfctltitre UL.a_actions {
+	MARGIN-BOTTOM: 0px; PADDING-TOP: 3px
+}
+DIV.blocbulle UL {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+DIV.blocbulle UL LI {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV.blocbulle UL LI A {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 2px !important; MARGIN: 0px; PADDING-LEFT: 2px !important; WIDTH: 100%; PADDING-RIGHT: 2px !important; DISPLAY: block; PADDING-TOP: 2px !important
+}
+DIV.blocbulle UL.a_actions A {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 2px !important; MARGIN: 0px; PADDING-LEFT: 2px !important; WIDTH: 100%; PADDING-RIGHT: 2px !important; DISPLAY: block; PADDING-TOP: 2px !important
+}
+UL.a_menuappli LI.popaide {
+	FLOAT: right
+}
+UL.a_actions LI.imp {
+	FLOAT: right
+}
+UL.a_actions LI.actual {
+	FLOAT: right
+}
+UL.a_actions LI.pj {
+	FLOAT: right
+}
+TABLE TD.a_actions {
+	TEXT-ALIGN: center; PADDING-LEFT: 5px; WIDTH: 1%; PADDING-RIGHT: 5px
+}
+TABLE TD.i_actions {
+	TEXT-ALIGN: center; PADDING-LEFT: 5px; WIDTH: 1%; PADDING-RIGHT: 5px
+}
+TH.a_actions {
+	WIDTH: 1%
+}
+TH.i_actions {
+	WIDTH: 1%
+}
+A.pj {
+	PADDING-LEFT: 23px !important; BACKGROUND: url(../images/css/v3commun/icopj.gif) no-repeat left center
+}
+.invisible {
+	POSITION: absolute; TOP: 0px; LEFT: -9000px
+}
+.masque {
+	DISPLAY: none
+}
+ABBR.invisible {
+	BORDER-BOTTOM: medium none; POSITION: relative; CURSOR: auto; LEFT: 0px
+}
+ACRONYM.invisible {
+	BORDER-BOTTOM: medium none; POSITION: relative; CURSOR: auto; LEFT: 0px
+}
+FIELDSET.invisible {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; LEFT: 0px
+}
+A.afficher {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/plus.gif) !important
+}
+A.masquer {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/moins.gif) !important
+}
+A.afficher {
+	PADDING-LEFT: 10px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; MARGIN-RIGHT: 3px; TEXT-DECORATION: none
+}
+A.masquer {
+	PADDING-LEFT: 10px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; MARGIN-RIGHT: 3px; TEXT-DECORATION: none
+}
+UL.arbo LI.fixe {
+	PADDING-LEFT: 17px
+}
+UL.arbo A.sel {
+	BACKGROUND-COLOR: #ff2
+}
+A.afficher:hover {
+	BACKGROUND-COLOR: transparent
+}
+A.masquer:hover {
+	BACKGROUND-COLOR: transparent
+}
+A.popword {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.poppdf {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popexcel {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popword {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.poppdf {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popexcel {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popimg {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popimg {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popdoc {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popdoc {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popppt {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popppt {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.poptxt {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.poptxt {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popzip {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popzip {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popfacebook {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popfacebook {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.poprss {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.poprss {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popbluetooth {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.popbluetooth {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.poprds {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.poprds {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.poptwitter {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+SPAN.poptwitter {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+A.popvideo {
+	PADDING-LEFT: 17px !important; BACKGROUND: no-repeat left top
+}
+DIV.blocbulle UL.a_actions A.popword {
+	PADDING-LEFT: 17px !important
+}
+DIV.blocbulle UL.a_actions A.poppdf {
+	PADDING-LEFT: 17px !important
+}
+DIV.blocbulle UL.a_actions A.popexcel {
+	PADDING-LEFT: 17px !important
+}
+DIV.blocbulle UL.a_actions A.popimg {
+	PADDING-LEFT: 17px !important
+}
+DIV.blocbulle UL.a_actions A.popdoc {
+	PADDING-LEFT: 17px !important
+}
+DIV.blocbulle UL.a_actions A.popvideo {
+	PADDING-LEFT: 17px !important
+}
+A.popword {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoword.gif) !important
+}
+SPAN.popword {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoword.gif) !important
+}
+A.popexcel {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoexcel.gif) !important
+}
+SPAN.popexcel {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoexcel.gif) !important
+}
+A.poppdf {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icopdf.gif) !important
+}
+SPAN.poppdf {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icopdf.gif) !important
+}
+A.popimg {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoimg.gif) !important; PADDING-BOTTOM: 2px
+}
+SPAN.popimg {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoimg.gif) !important; PADDING-BOTTOM: 2px
+}
+A.popdoc {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icodoc.gif) !important; PADDING-BOTTOM: 2px; PADDING-LEFT: 14px !important
+}
+SPAN.popdoc {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icodoc.gif) !important; PADDING-BOTTOM: 2px; PADDING-LEFT: 14px !important
+}
+A.popppt {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoppt.gif) !important
+}
+SPAN.popppt {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icoppt.gif) !important
+}
+A.poptxt {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icotxt.gif) !important; PADDING-BOTTOM: 2px
+}
+SPAN.poptxt {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icotxt.gif) !important; PADDING-BOTTOM: 2px
+}
+A.popzip {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icozip.gif); PADDING-BOTTOM: 1px
+}
+SPAN.popzip {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icozip.gif); PADDING-BOTTOM: 1px
+}
+A.popmail {
+	PADDING-LEFT: 21px; BACKGROUND: url(../images/css/v3commun/mailto.gif) no-repeat left top
+}
+A.poptwitter {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icotwiiter.gif) !important
+}
+A.popfacebook {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icofacebook.gif) !important
+}
+A.popvideo {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icovideo.gif) !important
+}
+A.poprss {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icorss.gif) !important
+}
+A.popbluetooth {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icobluetooth.gif) !important
+}
+A.poprds {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icords.gif) !important; PADDING-LEFT: 55px !important
+}
+A.telfixe {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+SPAN.telfixe {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+A.telsafran {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+SPAN.telsafran {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+A.telorange {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+SPAN.telorange {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+A.telrouge {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+SPAN.telrouge {
+	PADDING-RIGHT: 17px !important; BACKGROUND: no-repeat right top
+}
+A.telfixe {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telfixe.gif) !important
+}
+SPAN.telfixe {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telfixe.gif) !important
+}
+A.telsafran {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telsafran.gif) !important
+}
+SPAN.telsafran {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telsafran.gif) !important
+}
+A.telorange {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telorange.gif) !important
+}
+SPAN.telorange {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telorange.gif) !important
+}
+A.telrouge {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telrouge.gif) !important
+}
+SPAN.telrouge {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/telrouge.gif) !important
+}
+A.popword {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popexcel {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.poppdf {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popimg {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popdoc {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popppt {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.poptxt {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popzip {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popmail {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.poptwitter {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popfacebook {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.poprss {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.popbluetooth {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.poprds {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.telfixe {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.telsafran {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.telorange {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.telrouge {
+	MIN-WIDTH: 1px; CURSOR: pointer
+}
+A.prive {
+	PADDING-LEFT: 15px; BACKGROUND: url(../images/css/v3commun/acces-prive.gif) no-repeat left top
+}
+DIV.blocpaginh IMG {
+	VERTICAL-ALIGN: text-top
+}
+DIV.blocpaginb IMG {
+	VERTICAL-ALIGN: text-top
+}
+DIV.blocbulle P {
+	MARGIN-LEFT: 5px; MARGIN-RIGHT: 5px
+}
+P.surtitre A {
+	TEXT-TRANSFORM: none; LETTER-SPACING: 0px; TEXT-DECORATION: underline
+}
+DIV.a_blocfctl {
+	OVERFLOW: visible !important
+}
+TD.a_vide {
+	PADDING-BOTTOM: 10px !important; PADDING-LEFT: 10px !important; PADDING-RIGHT: 10px !important; PADDING-TOP: 10px !important
+}
+TD.a_vide {
+	TEXT-ALIGN: center; FONT-SIZE: 1.1em
+}
+TD.a_vide P {
+	TEXT-ALIGN: center; FONT-SIZE: 1.1em
+}
+P.a_options A.popaide {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 2px; LINE-HEIGHT: 100%; PADDING-LEFT: 5px; WIDTH: auto; PADDING-RIGHT: 5px; DISPLAY: block; FLOAT: none; HEIGHT: auto; TEXT-DECORATION: underline; PADDING-TOP: 2px
+}
+UL.a_menuappli LI A {
+	WHITE-SPACE: nowrap
+}
+A.icofav_actif {
+	WIDTH: 16px; HEIGHT: 14px
+}
+A.icofav_actif IMG {
+	WIDTH: 16px; HEIGHT: 14px
+}
+A.icofav_actif {
+	DISPLAY: inline-block; BACKGROUND: url(../images/css/v3commun/icofav_unselect.png) no-repeat center top; OVERFLOW: hidden; CURSOR: pointer
+}
+A.icofav_actif:hover {
+	BACKGROUND-POSITION: left -14px
+}
+DIV.bloccal {
+	Z-INDEX: 2
+}
+INPUT#calY {
+	WIDTH: 4em
+}
+DIV.bloccalfields {
+	POSITION: relative
+}
+DIV.bloccal {
+	POSITION: absolute; VISIBILITY: hidden; TOP: 0px; LEFT: 0px
+}
+DIV.bloccal DIV.blocmois A.jourcal {
+	COLOR: #fff; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+UL.ctx {
+	BACKGROUND-COLOR: transparent !important
+}
+UL.ctx A.act SPAN {
+	FONT-WEIGHT: bold
+}
+DIV.i_blocsimul P.a_titre1 {
+	DISPLAY: none
+}
+DIV.i_blocsimul DIV.a_blocfctltitre {
+	DISPLAY: none
+}
+DIV.i_blocsimul DIV.a_blocfctl {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV.i_blocsimul DIV.a_blocfctl DIV.bloctxt {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV.i_blocsimul DIV.blocnotes {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.a_popinfo {
+	PADDING-RIGHT: 5px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right top
+}
+SPAN.a_popinfo {
+	POSITION: relative; WHITE-SPACE: nowrap
+}
+TH.a_popinfo SPAN.a_popinfo {
+	BACKGROUND-IMAGE: none
+}
+TD.a_popinfo SPAN.a_popinfo {
+	BACKGROUND-IMAGE: none
+}
+.a_popinfo SPAN.texte {
+	POSITION: absolute; PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: none; WHITE-SPACE: normal; FONT-SIZE: 0.9em; TOP: 30px; FONT-WEIGHT: normal; PADDING-TOP: 3px; LEFT: 0px
+}
+SPAN.a_popinfo:hover SPAN.texte {
+	DISPLAY: block
+}
+TH.a_popinfo:hover SPAN.texte {
+	DISPLAY: block
+}
+TD.a_popinfo:hover SPAN.texte {
+	DISPLAY: block
+}
+.a_popinfo {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icocoins.gif)
+}
+.a_popinfo SPAN.texte {
+	BORDER-BOTTOM: #404040 1px solid; BORDER-LEFT: #404040 1px solid; BACKGROUND-COLOR: #ffc; COLOR: #000; BORDER-TOP: #404040 1px solid; BORDER-RIGHT: #404040 1px solid
+}
+TH.a_popinfo SPAN.a_popinfo SPAN.texte {
+	BORDER-BOTTOM: #404040 1px solid; BORDER-LEFT: #404040 1px solid; BACKGROUND-COLOR: #ffc; COLOR: #000; BORDER-TOP: #404040 1px solid; BORDER-RIGHT: #404040 1px solid
+}
+.a_popinfocompl {
+	PADDING-RIGHT: 1px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right top
+}
+SPAN.a_popinfocompl {
+	MARGIN-RIGHT: 4px
+}
+.a_popinfocompl {
+	BACKGROUND-IMAGE: url(../images/css/v3commun/icocoins.gif)
+}
+SPAN.a_popinfotexte {
+	DISPLAY: none
+}
+IFRAME.ifrBulleAide {
+	POSITION: absolute; MARGIN: 0px; VISIBILITY: hidden; TOP: 0px; LEFT: 0px
+}
+UL.listefluide {
+	WIDTH: 100%
+}
+UL.listefluide LI.item {
+	LIST-STYLE-TYPE: none; MARGIN: 2px; FLOAT: left; LIST-STYLE-IMAGE: none
+}
+UL.listefluide LI.item DIV.blocitemlf {
+	WIDTH: 200px
+}
+DIV.restriction {
+	TEXT-ALIGN: center; MARGIN-BOTTOM: 10px
+}
+DIV.restriction UL {
+	DISPLAY: inline
+}
+DIV.restriction P.titrer {
+	DISPLAY: inline; FONT-WEIGHT: bold
+}
+DIV.restriction UL LI {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: inline; FONT-WEIGHT: normal; PADDING-TOP: 5px
+}
+DIV.restriction UL LI A {
+	FONT-WEIGHT: normal
+}
+DIV.restriction LI.sel {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.restriction LI.sel A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.restriction LI.sep SPAN {
+	PADDING-RIGHT: 10px; BORDER-RIGHT: #000000 1px solid
+}
+DIV.restriction LI SPAN.v3 {
+	
+}
+DIV.restriction LABEL {
+	FONT-WEIGHT: bold
+}
+DIV.menuh {
+	TEXT-ALIGN: right; MARGIN-BOTTOM: 10px
+}
+DIV.menuh UL {
+	DISPLAY: inline
+}
+DIV.menuh P.titrer {
+	DISPLAY: inline; FONT-WEIGHT: bold
+}
+DIV.menuh UL LI {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: inline; FONT-WEIGHT: normal; PADDING-TOP: 5px
+}
+DIV.menuh UL LI A {
+	FONT-WEIGHT: normal
+}
+DIV.menuh LI.sel {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.restriction LI.sel A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.menuh LI.sep SPAN {
+	PADDING-RIGHT: 10px; BORDER-RIGHT: #000000 1px solid
+}
+DIV.menuh LI SPAN.v3 {
+	
+}
+DIV.menuapplih {
+	TEXT-ALIGN: right; MARGIN-BOTTOM: 10px
+}
+DIV.menuapplih UL {
+	DISPLAY: inline
+}
+DIV.menuapplih P.titrer {
+	DISPLAY: inline; FONT-WEIGHT: bold
+}
+DIV.menuapplih UL LI {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: inline; FONT-WEIGHT: normal; PADDING-TOP: 5px
+}
+DIV.menuapplih UL LI A {
+	FONT-WEIGHT: normal
+}
+DIV.menuapplih LI.sel {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.restriction LI.sel A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.menuapplih LI.sep SPAN {
+	PADDING-RIGHT: 10px; BORDER-RIGHT: #000000 1px solid
+}
+DIV.menuapplih LI SPAN.v3 {
+	
+}
+SPAN.inputfile {
+	POSITION: relative
+}
+DIV.fakefile {
+	Z-INDEX: 1; POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+DIV.fakefile IMG {
+	POSITION: absolute
+}
+INPUT.hidden {
+	Z-INDEX: 2; POSITION: relative; FILTER: alpha(opacity:0); -moz-opacity: 0; opacity: 0
+}
+.voir {
+	BORDER-BOTTOM: red 1px solid; BORDER-LEFT: red 1px solid; BORDER-TOP: red 1px solid; BORDER-RIGHT: red 1px solid
+}
+* HTML DIV.marges {
+	WIDTH: 100%
+}
+* HTML DIV.a_blocongfond {
+	WIDTH: 100%
+}
+* HTML DIV.bloctxt {
+	WIDTH: 100%
+}
+* HTML DIV.bord1 {
+	WIDTH: 100%
+}
+* HTML DIV.bord2 {
+	WIDTH: 100%
+}
+* HTML .decal1 {
+	WIDTH: 100%
+}
+* HTML DIV.a_blocfctltitre {
+	WIDTH: 100%
+}
+* HTML DIV.blocmsg {
+	WIDTH: 100%
+}
+* HTML A.triasc SPAN {
+	WIDTH: 1px; WHITE-SPACE: nowrap; CURSOR: pointer
+}
+* HTML A.tridesc SPAN {
+	WIDTH: 1px; WHITE-SPACE: nowrap; CURSOR: pointer
+}
+* HTML A.trioff SPAN {
+	WIDTH: 1px; WHITE-SPACE: nowrap; CURSOR: pointer
+}
+DIV.blocillustre {
+	CLEAR: both
+}
+.g {
+	TEXT-ALIGN: left !important
+}
+.c {
+	TEXT-ALIGN: center !important
+}
+.j {
+	TEXT-ALIGN: justify !important
+}
+.neg {
+	COLOR: #f00 !important
+}
+.pos {
+	COLOR: #090 !important
+}
+.d {
+	TEXT-ALIGN: right !important
+}
+.mtt {
+	TEXT-ALIGN: right !important
+}
+.tx {
+	TEXT-ALIGN: right !important
+}
+TD.INFO {
+	BACKGROUND-COLOR: #ffc !important
+}
+TH.INFO {
+	BACKGROUND-COLOR: #ffc !important
+}
+DIV.a_blocongh UL A {
+	FLOAT: none
+}
+DIV.a_blocongh UL SPAN {
+	FLOAT: none
+}
+HEAD:first-child + BODY DIV.a_blocongh UL A {
+	DISPLAY: block
+}
+HEAD:first-child + BODY DIV.a_blocongh UL SPAN {
+	DISPLAY: block
+}
+HEAD:first-child + BODY .c > DIV {
+	MARGIN-LEFT: auto !important; MARGIN-RIGHT: auto !important
+}
+HEAD:first-child + BODY .c > P {
+	MARGIN-LEFT: auto !important; MARGIN-RIGHT: auto !important
+}
+HEAD:first-child + BODY .c > TABLE {
+	MARGIN-LEFT: auto !important; MARGIN-RIGHT: auto !important
+}
+HEAD:first-child + BODY .c > TABLE > CAPTION {
+	MARGIN-LEFT: auto !important; MARGIN-RIGHT: auto !important
+}
+HEAD:first-child + BODY .d > DIV {
+	MARGIN-LEFT: auto !important
+}
+HEAD:first-child + BODY .d > P {
+	MARGIN-LEFT: auto !important
+}
+HEAD:first-child + BODY .d > TABLE {
+	MARGIN-LEFT: auto !important
+}
+HEAD:first-child + BODY .d > TABLE > CAPTION {
+	MARGIN-LEFT: auto !important
+}
+:unknown DIV.bloctelft P.tarif {
+	FONT-SIZE: 80%
+}
+:unknown A.triasc SPAN.renvoi {
+	DISPLAY: inline
+}
+:unknown A.trioff SPAN.renvoi {
+	DISPLAY: inline
+}
+:unknown A.tridesc SPAN.renvoi {
+	DISPLAY: inline
+}
+* HTML SPAN.a_popinfo {
+	WIDTH: 1%
+}
+:unknown .a_popinfocompl {
+	PADDING-RIGHT: 4px
+}
